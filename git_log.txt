@@ -1,0 +1,41 @@
+commit b7945a711429ddda6a9394dc05d063eb4f253f90
+Author: Melvin Reyes <melvinreyes1181@gmail.com>
+Date:   Sat Feb 7 02:05:58 2026 -0800
+
+    Fix typos
+
+commit 9af257edd7276c1ee6f3e3e5ed1dd31e0ffcaf63
+Author: Melvin Reyes <melvinreyes1181@gmail.com>
+Date:   Sat Feb 7 01:59:29 2026 -0800
+
+    Add favorite movie/game
+
+commit 595e64a542320ce7a32911cbcba92f91ac79b599
+Author: Melvin Reyes <melvinreyes1181@gmail.com>
+Date:   Sat Feb 7 01:56:05 2026 -0800
+
+    Add favorite food
+
+commit 3f9572b59456b1053b9a280caaa94273825bed2b
+Author: Melvin Reyes <melvinreyes1181@gmail.com>
+Date:   Sat Feb 7 01:50:50 2026 -0800
+
+    Add README describing the project
+
+commit e409476078872647b3bed6cedcb57e26d29cc202
+Author: Melvin Reyes <melvinreyes1181@gmail.com>
+Date:   Sat Feb 7 01:38:27 2026 -0800
+
+    Fill in name and hobby
+
+commit 4bafc4daad458b483eaca03bc287b16c52fee7da
+Author: Melv248 <melvinreyes1181@gmail.com>
+Date:   Sat Feb 7 00:45:43 2026 -0800
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
